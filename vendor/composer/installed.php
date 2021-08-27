@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '806bff17adaa05bffe0cb5da2635f2c6205505d2',
+    'reference' => 'b18734c627771ac4e1378630526cce1d682cb4b9',
     'name' => 'bassil-ali/design-pattern',
   ),
   'versions' => 
@@ -27,7 +27,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '806bff17adaa05bffe0cb5da2635f2c6205505d2',
+      'reference' => 'b18734c627771ac4e1378630526cce1d682cb4b9',
     ),
     'bassil-ali/tuken-auth-lib' => 
     array (
