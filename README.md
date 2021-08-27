@@ -1,7 +1,7 @@
 # Design Patterns PHP 
 
 GitHub build Status
-![](https://github.com/RamyHakam/DesignPatternsCourse//workflows/build/badge.svg)
+![](https://github.com/Bassil-ali/Design-patterns-php//workflows/build/badge.svg)
 
 
 # Installation
