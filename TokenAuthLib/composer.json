@@ -1,0 +1,17 @@
+{
+   "name": "bassil-ali/tuken-auth-lib",
+    "description": "test lip adapter php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Bassil-ali",
+            "email": "githup7@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TokenAuth\\": "TokenAuth"
+        }
+    }
+}

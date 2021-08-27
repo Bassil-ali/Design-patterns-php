@@ -1,0 +1,48 @@
+{
+    "name": "bassil-ali/design-pattern",
+    "description": "design pettern php",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Bassil-ali",
+            "email": "githup7@gmail.com"
+        }
+    ],
+
+    "require": {
+        "phpunit/phpunit": "^8.5.8",
+        "bassil-ali/basic-auth-lib":  "dev-master",
+        "bassil-ali/tuken-auth-lib":  "dev-master"
+       
+    },
+    "autoload": {
+        "psr-4": {
+            "Creational\\": "Creational",
+            "Structural\\": "Structural",
+            "Behavioral\\": "Behavioral",
+            "Others\\": "Others"
+        }
+    },
+
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+
+    "repositories": [
+        {
+            "type": "path",
+            "url": "BasicAuthLib"
+        },
+        {
+            "type": "path",
+            "url": "TokenAuthLib"
+        }
+    ],
+    "license": ["MIT"]
+
+}
