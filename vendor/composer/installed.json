@@ -2,8 +2,8 @@
     "packages": [
         {
             "name": "bassil-ali/basic-auth-lib",
-            "version": "dev-master",
-            "version_normalized": "dev-master",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
             "dist": {
                 "type": "path",
                 "url": "BasicAuthLib",
@@ -30,8 +30,8 @@
         },
         {
             "name": "bassil-ali/tuken-auth-lib",
-            "version": "dev-master",
-            "version_normalized": "dev-master",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
             "dist": {
                 "type": "path",
                 "url": "TokenAuthLib",

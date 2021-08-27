@@ -4,11 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "88cabe20d1026ca565e61418c463e3dd",
+    "content-hash": "3237d1649e37c6d485d64fdadfca271e",
     "packages": [
         {
             "name": "bassil-ali/basic-auth-lib",
-            "version": "dev-master",
+            "version": "dev-main",
             "dist": {
                 "type": "path",
                 "url": "BasicAuthLib",
@@ -33,7 +33,7 @@
         },
         {
             "name": "bassil-ali/tuken-auth-lib",
-            "version": "dev-master",
+            "version": "dev-main",
             "dist": {
                 "type": "path",
                 "url": "TokenAuthLib",

@@ -11,8 +11,8 @@
 
     "require": {
         "phpunit/phpunit": "^8.5.8",
-        "bassil-ali/basic-auth-lib":  "dev-master",
-        "bassil-ali/tuken-auth-lib":  "dev-master"
+        "bassil-ali/basic-auth-lib":  "dev-main",
+        "bassil-ali/tuken-auth-lib":  "dev-main"
        
     },
     "autoload": {

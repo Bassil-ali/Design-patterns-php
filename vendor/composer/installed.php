@@ -1,20 +1,20 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'a10c377f1ab3c0d755fe456caab2c005dd50aca7',
     'name' => 'bassil-ali/design-pattern',
   ),
   'versions' => 
   array (
     'bassil-ali/basic-auth-lib' => 
     array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
@@ -22,17 +22,17 @@
     ),
     'bassil-ali/design-pattern' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'a10c377f1ab3c0d755fe456caab2c005dd50aca7',
     ),
     'bassil-ali/tuken-auth-lib' => 
     array (
-      'pretty_version' => 'dev-master',
-      'version' => 'dev-master',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
@@ -58,8 +58,8 @@
       'reference' => '776f831124e9c62e1a2c601ecc52e776d8bb7220',
       'replaced' => 
       array (
-        0 => '1.x-dev',
-        1 => '9999999-dev',
+        0 => '9999999-dev',
+        1 => '1.x-dev',
       ),
     ),
     'phar-io/manifest' => 
