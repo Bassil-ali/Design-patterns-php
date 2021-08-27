@@ -30,7 +30,7 @@ class InstalledVersions
     'aliases' => 
     array (
     ),
-    'reference' => 'b18734c627771ac4e1378630526cce1d682cb4b9',
+    'reference' => '8178d9951db3484141f8f34438b7a06025ab5194',
     'name' => 'bassil-ali/design-pattern',
   ),
   'versions' => 
@@ -51,7 +51,7 @@ class InstalledVersions
       'aliases' => 
       array (
       ),
-      'reference' => 'b18734c627771ac4e1378630526cce1d682cb4b9',
+      'reference' => '8178d9951db3484141f8f34438b7a06025ab5194',
     ),
     'bassil-ali/tuken-auth-lib' => 
     array (
