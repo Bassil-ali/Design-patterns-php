@@ -1,6 +1,7 @@
 {
     "name": "bassil-ali/design-pattern",
     "description": "design pettern php",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Bassil-ali",
